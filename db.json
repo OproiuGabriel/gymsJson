@@ -4,31 +4,36 @@
           "id": 1,
           "title": "SanGym",
           "location": "Bucharest",
-          "description": "Bucharest offers you a complete package of services, in a gym equipped with the new professional equipment Florsystem (the number 1 manufacturer in Romania) and professional cardio machines Vision Fitness all extended over an area of 450 sqm on 2 levels, equipped with : air conditioning, central heating, locker rooms, showers and clean and civilized bathrooms, key lockers for storing personal belongings during training."
+          "description": "Bucharest offers you a complete package of services, in a gym equipped with the new professional equipment Florsystem (the number 1 manufacturer in Romania) and professional cardio machines Vision Fitness all extended over an area of 450 sqm on 2 levels, equipped with : air conditioning, central heating, locker rooms, showers and clean and civilized bathrooms, key lockers for storing personal belongings during training.",
+          "uri": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80"
         },
         {
           "id": 2,
           "title": "WorldClass",
           "location": "Bucharest",
-          "description": "The largest health and fitness network in Romania, World Class opened its first club in 2000. Almost 20 years later, World Class has 41 health and fitness clubs throughout the country and over 65,000 active members. It was a rewarding road to full national success. The World Class journey continues. To transform and improve the lifestyle of Romanians, through our health & fitness programs, through our network of clubs and, especially, through the dedication and passion of our team of health & fitness experts, in a vibrant and powerful environment motivational."
+          "description": "The largest health and fitness network in Romania, World Class opened its first club in 2000. Almost 20 years later, World Class has 41 health and fitness clubs throughout the country and over 65,000 active members. It was a rewarding road to full national success. The World Class journey continues. To transform and improve the lifestyle of Romanians, through our health & fitness programs, through our network of clubs and, especially, through the dedication and passion of our team of health & fitness experts, in a vibrant and powerful environment motivational.",
+          "uri": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=968&q=80"
         },
         {
           "id": 3,
           "title": "Mega Gym",
           "location": "Constanta",
-          "description": "In Mega Gym Constanta you benefit from professional equipment designed to train each muscle group, and qualified staff that will help you overcome your limits and get amazing results. Services include: Fitness, Aerobics & Spinning, Bodybuilding, Sauna & Locker Rooms, Sports Bar, Personal Trainer. The quality and complexity of the services offered, designed to improve physical condition and general condition, recommends Mega Gym as one of the best gyms. In a pleasant and relaxing environment you have the chance to forget about stress and routine to spend a few hours in our center where you have access to a wide range of services in order to improve your physical condition."
+          "description": "In Mega Gym Constanta you benefit from professional equipment designed to train each muscle group, and qualified staff that will help you overcome your limits and get amazing results. Services include: Fitness, Aerobics & Spinning, Bodybuilding, Sauna & Locker Rooms, Sports Bar, Personal Trainer. The quality and complexity of the services offered, designed to improve physical condition and general condition, recommends Mega Gym as one of the best gyms. In a pleasant and relaxing environment you have the chance to forget about stress and routine to spend a few hours in our center where you have access to a wide range of services in order to improve your physical condition.",
+          "uri": "https://images.unsplash.com/photo-1583248839364-bd7430a3cd83?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80"
          },
          {
           "id": 4,
           "title": "X by Spice",
           "location": "Alba Iulia",
-          "description": "X by Spice is a new gym concept developed by Spice Fitness. With a modern design and exceptional features provided by LifeFitness, USA, the world's largest manufacturer of fitness equipment, X by Spice was inaugurated in the fall of 2013, in Alba Iulia, Piata Cetate area. 1000 square meters of state-of-the-art equipment; 54 new LifeFitness USA devices; air-conditioned and airy aerobics room; complete locker rooms for ladies and gentlemen; disabled access"
+          "description": "X by Spice is a new gym concept developed by Spice Fitness. With a modern design and exceptional features provided by LifeFitness, USA, the world's largest manufacturer of fitness equipment, X by Spice was inaugurated in the fall of 2013, in Alba Iulia, Piata Cetate area. 1000 square meters of state-of-the-art equipment; 54 new LifeFitness USA devices; air-conditioned and airy aerobics room; complete locker rooms for ladies and gentlemen; disabled access",
+          "uri": "https://images.unsplash.com/photo-1561214078-f3247647fc5e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
          },
          {
           "id": 5,
           "title": "Stay Fit Gym",
           "location": "Bucharest",
-          "description": "We offer Stay Fit Gym clients the best guidance to achieve the desired results. That is why the team of instructors, coaches and collaborators is carefully selected, the main criterion being performance. We are focused on educating our clients from a sports point of view, so that the work done in the Stay Fit Gym centers can materialize in a more pleasant mood and a healthy life.Our team of trainers consists of professionals in fitness, aerobics and gymnastics."
+          "description": "We offer Stay Fit Gym clients the best guidance to achieve the desired results. That is why the team of instructors, coaches and collaborators is carefully selected, the main criterion being performance. We are focused on educating our clients from a sports point of view, so that the work done in the Stay Fit Gym centers can materialize in a more pleasant mood and a healthy life.Our team of trainers consists of professionals in fitness, aerobics and gymnastics.",
+          "uri": "https://images.unsplash.com/photo-1614928228351-8d3b1efa1fb9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
          }
     ]
 }
